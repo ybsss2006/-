@@ -1,0 +1,3 @@
+﻿  11.10.c
+C:\Users\ybsss\source\repos\ConsoleApplication1\ConsoleApplication1\11.10.c(12,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ConsoleApplication1.vcxproj -> C:\Users\ybsss\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

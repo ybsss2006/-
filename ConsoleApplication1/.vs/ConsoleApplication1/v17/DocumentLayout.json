@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ybsss\\source\\repos\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE122-9CFD-4BAC-8A09-814177523A73}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ybsss\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\My_strlen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF8DE122-9CFD-4BAC-8A09-814177523A73}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\My_strlen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE122-9CFD-4BAC-8A09-814177523A73}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ybsss\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\\u5FEB\u6377\u952E.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF8DE122-9CFD-4BAC-8A09-814177523A73}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\\u5FEB\u6377\u952E.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE122-9CFD-4BAC-8A09-814177523A73}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ybsss\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\11.10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF8DE122-9CFD-4BAC-8A09-814177523A73}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\11.10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE122-9CFD-4BAC-8A09-814177523A73}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ybsss\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\\u6A21\u677F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF8DE122-9CFD-4BAC-8A09-814177523A73}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\\u6A21\u677F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE122-9CFD-4BAC-8A09-814177523A73}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\ybsss\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\\u9012\u5F52.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF8DE122-9CFD-4BAC-8A09-814177523A73}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\\u9012\u5F52.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u5FEB\u6377\u952E.cpp",
+              "DocumentMoniker": "C:\\Users\\ybsss\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\\u5FEB\u6377\u952E.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\\u5FEB\u6377\u952E.cpp",
+              "ToolTip": "C:\\Users\\ybsss\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\\u5FEB\u6377\u952E.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\\u5FEB\u6377\u952E.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T08:04:56.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "My_strlen.c",
+              "DocumentMoniker": "C:\\Users\\ybsss\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\My_strlen.c",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\My_strlen.c",
+              "ToolTip": "C:\\Users\\ybsss\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\My_strlen.c",
+              "RelativeToolTip": "ConsoleApplication1\\My_strlen.c",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwBsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-14T15:10:47.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "11.10.c",
+              "DocumentMoniker": "C:\\Users\\ybsss\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\11.10.c",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\11.10.c",
+              "ToolTip": "C:\\Users\\ybsss\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\11.10.c",
+              "RelativeToolTip": "ConsoleApplication1\\11.10.c",
+              "ViewState": "AQIAAAQAAAAAAAAAAAArwAUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-10T09:43:15.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u9012\u5F52.c",
+              "DocumentMoniker": "C:\\Users\\ybsss\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\\u9012\u5F52.c",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\\u9012\u5F52.c",
+              "ToolTip": "C:\\Users\\ybsss\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\\u9012\u5F52.c",
+              "RelativeToolTip": "ConsoleApplication1\\\u9012\u5F52.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-06T15:36:30.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u6A21\u677F.cpp",
+              "DocumentMoniker": "C:\\Users\\ybsss\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\\u6A21\u677F.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\\u6A21\u677F.cpp",
+              "ToolTip": "C:\\Users\\ybsss\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\\u6A21\u677F.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\\u6A21\u677F.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T08:17:35.881Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
